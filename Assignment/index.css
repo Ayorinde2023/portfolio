@@ -1,0 +1,212 @@
+*{
+    margin: 2%;
+    padding: 2%;
+}
+body{
+    background-color: rgb(111, 158, 89);
+}
+h1{
+    display: flex;
+    margin-bottom: 5px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+}
+.starter{
+    height: 350px;
+    width: 300px;
+    border: 1px solid rgb(31, 141, 59);
+    display: grid;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(12, 15, 12);
+   border-radius: 10px;
+   justify-content: center;
+}
+#starter-1{
+    color: rgb(255, 255, 255);
+    padding: none;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#dollar{
+    justify-content: center;
+    display: inline-flex;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+#minus{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(128, 128, 128, 0.923);
+    color: white;
+    font-size: 20px;
+}
+#user-1{
+    width: 100px;
+    height: 20px;
+    color: white;
+    background-color: rgba(12, 12, 12, 0.788);
+    border: 1px solid rgb(41, 34, 26);
+    border-radius: 5px;
+}
+#monthly{
+    color: rgb(207, 202, 202);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+}
+#plus{
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+#get-started-1{
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 40px;
+    border: 1px solid rgba(80, 7, 148, 0.958);
+    border-radius: 5px;
+}
+.enterprise{
+        height: 350px;
+        width: 300px;
+        border: 1px solid black;
+        display: grid;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: rgb(29, 20, 20);
+        border-radius: 10px;
+    }
+    #enterprise-1{
+        color: white;
+        padding: none;
+        padding-top: 40px;
+        margin-top: 15px;
+    }
+    #talk{
+        justify-content: center;
+        display: inline-flex;
+    }
+    #yearly{
+        color: rgb(207, 202, 202);
+    }
+    .box-2{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 20px;
+    }
+    #minus-2{
+        width: 40px;
+        height: 40px;
+        background-color: rgba(128, 128, 128, 0.923);
+        color: white;
+    }
+    #user-10{
+        width: 160px;
+        height: 30px;
+        color: white;
+        background-color: black;
+        border: 1px solid rgb(41, 34, 26);
+        border-radius: 5px;
+    }
+    #plus-2{
+        background-color: black;
+        color: white;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        margin-right: 30px;
+    }
+    #talk-sales{
+        width: 200px;
+        height: 30px;
+        background-color: black;
+        color: white;
+        padding-top: 10px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-left: 50px;
+        border-radius: 5px;
+        border: 1px solid rgba(80, 7, 148, 0.958);
+        border-radius: 5px;
+    }
+    .growth{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        height: 380px;
+        width: 300px;
+        border: 1px solid black;
+        display: grid;
+        text-align: center;
+        background-color: rgb(29, 20, 20);
+        border-radius: 10px;
+        transform: scale(1.1)
+    }
+    #growth-1{
+        color: white;
+        padding: none;
+        padding-top: 40px;
+        margin-top: -40px;
+    }
+    #sav{
+        margin-top: 30px;
+    }
+    #sav1{
+        background-color: rgba(254, 88, 171, 0.603);
+        width: 100px;
+        height: 25px;
+    }
+    #dollar-1{
+        justify-content: center;
+        display: inline-flex;
+    }
+    .box-1{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 20px;
+    }
+    #minus-1{
+        width: 40px;
+        height: 40px;
+        background-color: rgba(128, 128, 128, 0.932);
+        color: white;
+        font-size: 20px;
+    }
+    #user-5{
+        width: 160px;
+        height: 20px;
+        margin-right: 20px;
+        color: white;
+        background-color: black;
+        border: 1px solid rgb(41, 34, 26);
+        border-radius: 5px;
+    }
+    #monthly{
+        color: rgb(207, 202, 202);
+    }
+    #plus-1{
+        background-color: black;
+        color: white;
+        margin-right: 30px;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    #get-started-2{
+        width: 200px;
+        height: 25px;
+        background-color: rgba(70, 132, 213, 0.893);
+        color: white;
+        padding-top: 10px;
+        justify-content: center;
+        margin-left: 50px;
+        border-radius: 5px;
+    }
