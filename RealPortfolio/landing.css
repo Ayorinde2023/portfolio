@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#container{
+   color: aliceblue;
+   display: flex;
+   justify-content: space-between;
+   
+}
+#container h2 span{
+    color: blue;
+}
+
+#container a{
+    color: white;
+    display: flex;
+    padding: 30px;
+    text-decoration: none;
+    text-size-adjust: 5px;
+}
+
+#ayorinde{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    margin: 200px;
+    padding-left: 80px;
+
+}
+#ayorinde h1 span{
+    color: aqua;
+}
